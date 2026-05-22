@@ -85,12 +85,6 @@ The paper is available at:
 
 [https://arxiv.org/abs/2601.16171v2](https://arxiv.org/abs/2601.16171v2)
 
-## Authors
-
-- Ali Khalesi
-- Ahmad Tanha
-- Derya Malak
-- Petros Elia
 
 ## License
 
