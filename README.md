@@ -1,19 +1,9 @@
 # Sparse-Tensor-Factorization
 
-````markdown
-# Python Codes for Multi-User Non-Linearly Separable Distributed Computing
+[![arXiv](https://img.shields.io/badge/arXiv-2601.16171-b31b1b.svg)](https://arxiv.org/abs/2601.16171v2)
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-# License
-
-This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
-
-You are free to share this material, provided that appropriate credit is given, a link to the license is provided, and any changes are indicated.
-
-You may not use the material for commercial purposes.
-
-You may not distribute modified versions of the material.
-
-Full license text: https://creativecommons.org/licenses/by-nc-nd/4.0/
+## Python Codes for Multi-User Non-Linearly Separable Distributed Computing
 
 This repository contains the simulation codes used for the numerical results of the paper:
 
@@ -22,9 +12,7 @@ Ali Khalesi, Ahmad Tanha, Derya Malak, and Petros Elia
 
 The paper is available online on arXiv:
 
-```text
-https://arxiv.org/abs/2601.16171v2
-````
+[https://arxiv.org/abs/2601.16171v2](https://arxiv.org/abs/2601.16171v2)
 
 ## Overview
 
@@ -36,15 +24,15 @@ The codes in this repository reproduce the numerical comparisons reported in the
 
 The repository includes Python routines for:
 
-* generating admissible exponent tuples,
-* constructing multidimensional tiles,
-* checking tuple-tile feasibility,
-* building the associated assignment graph,
-* solving the assignment problem using max-flow,
-* computing the proposed achievable number of servers,
-* comparing with the default tensor decomposition baseline,
-* comparing with the TDC baseline,
-* generating IEEE-style histogram plots.
+- generating admissible exponent tuples,
+- constructing multidimensional tiles,
+- checking tuple-tile feasibility,
+- building the associated assignment graph,
+- solving the assignment problem using max-flow,
+- computing the proposed achievable number of servers,
+- comparing with the default tensor decomposition baseline,
+- comparing with the TDC baseline,
+- generating IEEE-style histogram plots.
 
 ## Requirements
 
@@ -57,7 +45,7 @@ matplotlib
 
 The implementation also uses standard Python libraries, including:
 
-```bash
+```python
 math
 itertools
 collections
@@ -95,16 +83,14 @@ If you use this code or find it useful in your research, please cite our paper:
 
 The paper is available at:
 
-```text
-https://arxiv.org/abs/2601.16171v2
-```
+[https://arxiv.org/abs/2601.16171v2](https://arxiv.org/abs/2601.16171v2)
 
 ## Authors
 
-Ali Khalesi,
-Ahmad Tanha,
-Derya Malak,
-Petros Elia
+- Ali Khalesi
+- Ahmad Tanha
+- Derya Malak
+- Petros Elia
 
 ## License
 
@@ -118,13 +104,8 @@ You may not distribute modified versions of the material.
 
 For more details, see:
 
-```text
-https://creativecommons.org/licenses/by-nc-nd/4.0/
-```
+[https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ## Disclaimer
 
 The codes are provided for research and reproducibility purposes. They are intended to accompany the paper and reproduce the numerical results presented therein.
-
-```
-```
