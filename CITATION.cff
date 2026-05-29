@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code or find it useful in your research, please cite the associated sources."
+
+type: software
+title: "Sparse Tensor Factorization with Combinatorial Reduction"
+authors:
+  - family-names: "Tanha"
+    given-names: "Ahmad"
+year: 2026
+
+repository-code: "https://github.com/ahmadtanhaa/MUNLSDC"
+
+type: article
+title: "Multi-User Non-Linearly Separable Distributed Computing"
+authors:
+  - family-names: "Khalesi"
+    given-names: "Ali"
+  - family-names: "Tanha"
+    given-names: "Ahmad"
+  - family-names: "Malak"
+    given-names: "Derya"
+  - family-names: "Elia"
+    given-names: "Petros"
+year: 2026
+journal: "arXiv preprint arXiv:2601.16171"
+url: "https://arxiv.org/abs/2601.16171v2"
